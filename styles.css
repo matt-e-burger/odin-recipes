@@ -1,0 +1,22 @@
+
+.card {
+    text-align: center;
+    border: 5px dotted black;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.menu {
+    margin-bottom: 30px;
+    list-style-type: none;
+    padding: 0px;
+}
+
+img {
+    margin-bottom: 21.440px;
+}
+
+
+
+
+
